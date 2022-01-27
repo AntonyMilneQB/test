@@ -1,0 +1,6 @@
+tasks:
+  - init: pip install kedro
+  
+github:
+  prebuilds:
+    master: false
